@@ -1,2 +1,3 @@
 # my-portfolio
-portfolio
+portfoliothis is my react personal portfolio
+
